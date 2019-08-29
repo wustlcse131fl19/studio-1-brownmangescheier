@@ -23,7 +23,11 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
-
+		String sentence = ("Hi, " + name + ". How are you?");
+		System.out.println(sentence);
 	}
+
+
+
 
 }
